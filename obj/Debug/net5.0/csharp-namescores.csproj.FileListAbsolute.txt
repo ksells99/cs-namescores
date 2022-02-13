@@ -1,0 +1,16 @@
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\csharp-namescores.exe
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\csharp-namescores.deps.json
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\csharp-namescores.runtimeconfig.json
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\csharp-namescores.runtimeconfig.dev.json
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\csharp-namescores.dll
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\ref\csharp-namescores.dll
+D:\Kai-2\csharp-namescores\bin\Debug\net5.0\csharp-namescores.pdb
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.csproj.AssemblyReference.cache
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.AssemblyInfoInputs.cache
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.AssemblyInfo.cs
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.csproj.CoreCompileInputs.cache
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.dll
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\ref\csharp-namescores.dll
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.pdb
+D:\Kai-2\csharp-namescores\obj\Debug\net5.0\csharp-namescores.genruntimeconfig.cache
